@@ -1,0 +1,4 @@
+.DS_Store
+.phpintel
+application/config/database.php
+asset/files
